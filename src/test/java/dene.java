@@ -13,7 +13,8 @@ public class dene {
         driver.get("https://www.tr724.com/");
         System.out.println("Develop comment2");
         int c=35;
-        String a = "Veli";
+        String a = "Zeki";
+
 
 
 
