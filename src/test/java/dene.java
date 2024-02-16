@@ -11,7 +11,8 @@ public class dene {
         WebDriverManager.firefoxdriver().setup();
         driver=new FirefoxDriver();
         driver.get("https://www.tr724.com/");
-        System.out.println("Develop comment");
+        System.out.println("Develop comment2");
+        System.out.println("Develop comment3");
 
 
 
