@@ -12,8 +12,9 @@ public class dene {
         driver=new FirefoxDriver();
         driver.get("https://www.tr724.com/");
         System.out.println("Develop comment2");
-        int c=35;
-        String a = "Zeki";
+        int c=350000000;
+        String a = "ARahman";
+
 
 
 
