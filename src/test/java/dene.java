@@ -14,6 +14,8 @@ public class dene {
         System.out.println("Develop comment2");
         int c=350000000;
         String a = "ARahman";
+        String b = "Selami";
+        System.out.println(a+" - "+b);
 
 
 
